@@ -20,7 +20,7 @@
 ## Top Projects
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=YouTube-Downloader)](https://github.com/yzu1103309/YouTube-Downloader)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=stream-url-handler)](https://github.com/yzu1103309/stream-url-handler)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=theater-app)](https://github.com/yzu1103309/theater-app)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=react-native-theater-app)](https://github.com/yzu1103309/react-native-theater-app)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=order)](https://github.com/yzu1103309/order)
 
 ## Machine Learning
