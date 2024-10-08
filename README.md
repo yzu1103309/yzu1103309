@@ -17,3 +17,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yzu1103309&show_icons=true&include_all_commits=true&locale=en&hide_rank=true&show=discussions_answered" alt="yzu1103309" /></p>
 
+## Top Projects
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=YouTube-Downloader)](https://github.com/yzu1103309/YouTube-Downloader)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=stream-url-handler)](https://github.com/yzu1103309/stream-url-handler)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=theater-app)](https://github.com/yzu1103309/theater-app)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=order)](https://github.com/yzu1103309/order)
+
+## Machine Learning
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=ml2021spring-hw1)](https://github.com/yzu1103309/ml2021spring-hw1)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=ml2021spring-hw3)](https://github.com/yzu1103309/ml2021spring-hw3)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=ml2021spring-hw6)](https://github.com/yzu1103309/ml2021spring-hw6)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=Fashion_MNIST_classification )](https://github.com/yzu1103309/Fashion_MNIST_classification )
