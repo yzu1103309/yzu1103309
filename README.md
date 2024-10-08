@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzu1103309&label=Profile%20views&color=0e75b6&style=flat" alt="yzu1103309" /> </p>
 
-- 📝 I regularly write articles on [https://hackmd.io/@wilson920430](https://hackmd.io/@wilson920430)
+- 📝 I write notes on [https://hackmd.io/@wilson920430](https://hackmd.io/@wilson920430)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
