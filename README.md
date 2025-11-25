@@ -25,5 +25,6 @@
 ## Machine Learning
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=ml2021spring-hw1)](https://github.com/yzu1103309/ml2021spring-hw1)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=ml2021spring-hw3)](https://github.com/yzu1103309/ml2021spring-hw3)
+
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=ml2021spring-hw6)](https://github.com/yzu1103309/ml2021spring-hw6)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=Fashion_MNIST_classification )](https://github.com/yzu1103309/Fashion_MNIST_classification )
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=yzu1103309&repo=Fashion_MNIST_classification )](https://github.com/yzu1103309/Fashion_MNIST_classification)
